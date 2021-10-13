@@ -1,7 +1,7 @@
 # MLAlgorithms
 
 ALGORITHMS
-* Linear Regression
+* [Linear Regression](https://github.com/rehamessameltagoury/MLAlgorithms/tree/main/Linear%20Regression)
 * Logistic Regression
 * Lasso
 * Ridge
